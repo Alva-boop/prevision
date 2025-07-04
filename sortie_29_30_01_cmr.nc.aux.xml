@@ -1,0 +1,50 @@
+<PAMDataset>
+  <Subdataset name="time_bnds">
+    <PAMDataset>
+      <PAMRasterBand band="1">
+        <Metadata>
+          <MDI key="STATISTICS_MAXIMUM">7200</MDI>
+          <MDI key="STATISTICS_MEAN">5760</MDI>
+          <MDI key="STATISTICS_MINIMUM">4320</MDI>
+          <MDI key="STATISTICS_STDDEV">1440</MDI>
+        </Metadata>
+      </PAMRasterBand>
+    </PAMDataset>
+  </Subdataset>
+  <Subdataset name="rain_sum">
+    <PAMDataset>
+      <PAMRasterBand band="1">
+        <Metadata>
+          <MDI key="STATISTICS_MAXIMUM">824.01293945312</MDI>
+          <MDI key="STATISTICS_MEAN">8.453036342863</MDI>
+          <MDI key="STATISTICS_MINIMUM">0</MDI>
+          <MDI key="STATISTICS_STDDEV">17.458065169353</MDI>
+        </Metadata>
+      </PAMRasterBand>
+    </PAMDataset>
+  </Subdataset>
+  <Subdataset name="lat">
+    <PAMDataset>
+      <PAMRasterBand band="1">
+        <Metadata>
+          <MDI key="STATISTICS_MAXIMUM">25.623657226562</MDI>
+          <MDI key="STATISTICS_MEAN">3.9257877050118</MDI>
+          <MDI key="STATISTICS_MINIMUM">-17.806343078613</MDI>
+          <MDI key="STATISTICS_STDDEV">12.648635384491</MDI>
+        </Metadata>
+      </PAMRasterBand>
+    </PAMDataset>
+  </Subdataset>
+  <Subdataset name="lon">
+    <PAMDataset>
+      <PAMRasterBand band="1">
+        <Metadata>
+          <MDI key="STATISTICS_MAXIMUM">33.246459960938</MDI>
+          <MDI key="STATISTICS_MEAN">19.090999617551</MDI>
+          <MDI key="STATISTICS_MINIMUM">4.935546875</MDI>
+          <MDI key="STATISTICS_STDDEV">7.9772450857117</MDI>
+        </Metadata>
+      </PAMRasterBand>
+    </PAMDataset>
+  </Subdataset>
+</PAMDataset>
