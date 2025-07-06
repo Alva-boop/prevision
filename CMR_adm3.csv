@@ -1,0 +1,361 @@
+"OBJECTID","ID_0","ISO","NAME_0","ID_1","NAME_1","ID_2","NAME_2","ID_3","NAME_3","TYPE_3","ENGTYPE_3","NL_NAME_3","VARNAME_3"
+1,41,"CMR","Cameroon",1,"Adamaoua",1,"Djerem",1,"Ngaoundal","Arrondissement","Arrondissement",NA,NA
+2,41,"CMR","Cameroon",1,"Adamaoua",1,"Djerem",2,"Tibati","Arrondissement","Arrondissement",NA,NA
+3,41,"CMR","Cameroon",1,"Adamaoua",2,"Faro et Déo",3,"Galim Tignère","Arrondissement","Arrondissement",NA,NA
+4,41,"CMR","Cameroon",1,"Adamaoua",2,"Faro et Déo",4,"Mayo Baléo","Arrondissement","Arrondissement",NA,NA
+5,41,"CMR","Cameroon",1,"Adamaoua",2,"Faro et Déo",5,"Tignère","Arrondissement","Arrondissement",NA,NA
+6,41,"CMR","Cameroon",1,"Adamaoua",3,"Mayo Banyo",6,"Bankim","Arrondissement","Arrondissement",NA,NA
+7,41,"CMR","Cameroon",1,"Adamaoua",3,"Mayo Banyo",7,"Banyo","Arrondissement","Arrondissement",NA,NA
+8,41,"CMR","Cameroon",1,"Adamaoua",3,"Mayo Banyo",8,"Mayo Darlé","Arrondissement","Arrondissement",NA,NA
+9,41,"CMR","Cameroon",1,"Adamaoua",4,"Mbéré",9,"Dir","Arrondissement","Arrondissement",NA,NA
+10,41,"CMR","Cameroon",1,"Adamaoua",4,"Mbéré",10,"Djohong","Arrondissement","Arrondissement",NA,NA
+11,41,"CMR","Cameroon",1,"Adamaoua",4,"Mbéré",11,"Meiganga","Arrondissement","Arrondissement",NA,NA
+12,41,"CMR","Cameroon",1,"Adamaoua",5,"Vina",12,"Belel","Arrondissement","Arrondissement",NA,NA
+13,41,"CMR","Cameroon",1,"Adamaoua",5,"Vina",13,"Martap","Arrondissement","Arrondissement",NA,NA
+14,41,"CMR","Cameroon",1,"Adamaoua",5,"Vina",14,"Mbé","Arrondissement","Arrondissement",NA,NA
+15,41,"CMR","Cameroon",1,"Adamaoua",5,"Vina",15,"Nganha","Arrondissement","Arrondissement",NA,NA
+16,41,"CMR","Cameroon",1,"Adamaoua",5,"Vina",16,"Ngaoundéré 1","Arrondissement","Arrondissement",NA,NA
+17,41,"CMR","Cameroon",1,"Adamaoua",5,"Vina",17,"Ngaoundéré 2","Arrondissement","Arrondissement",NA,NA
+18,41,"CMR","Cameroon",1,"Adamaoua",5,"Vina",18,"Ngaoundéré 3","Arrondissement","Arrondissement",NA,NA
+19,41,"CMR","Cameroon",1,"Adamaoua",5,"Vina",19,"Nyambaka","Arrondissement","Arrondissement",NA,NA
+20,41,"CMR","Cameroon",2,"Centre",6,"Haute Sanaga",20,"Bibé","Arrondissement","Arrondissement",NA,NA
+21,41,"CMR","Cameroon",2,"Centre",6,"Haute Sanaga",21,"Lembé Yézoum","Arrondissement","Arrondissement",NA,NA
+22,41,"CMR","Cameroon",2,"Centre",6,"Haute Sanaga",22,"Mbandjock","Arrondissement","Arrondissement",NA,NA
+23,41,"CMR","Cameroon",2,"Centre",6,"Haute Sanaga",23,"Minta","Arrondissement","Arrondissement",NA,NA
+24,41,"CMR","Cameroon",2,"Centre",6,"Haute Sanaga",24,"Nanga Eboko","Arrondissement","Arrondissement",NA,NA
+25,41,"CMR","Cameroon",2,"Centre",6,"Haute Sanaga",25,"Nkoteng","Arrondissement","Arrondissement",NA,NA
+26,41,"CMR","Cameroon",2,"Centre",6,"Haute Sanaga",26,"Nsem","Arrondissement","Arrondissement",NA,NA
+27,41,"CMR","Cameroon",2,"Centre",7,"Lekié",27,"Batchenga","Arrondissement","Arrondissement",NA,NA
+28,41,"CMR","Cameroon",2,"Centre",7,"Lekié",28,"Ebebda","Arrondissement","Arrondissement",NA,NA
+29,41,"CMR","Cameroon",2,"Centre",7,"Lekié",29,"Elig Mfomo","Arrondissement","Arrondissement",NA,NA
+30,41,"CMR","Cameroon",2,"Centre",7,"Lekié",30,"Evodoula","Arrondissement","Arrondissement",NA,NA
+31,41,"CMR","Cameroon",2,"Centre",7,"Lekié",31,"Lobo","Arrondissement","Arrondissement",NA,NA
+32,41,"CMR","Cameroon",2,"Centre",7,"Lekié",32,"Monatelé","Arrondissement","Arrondissement",NA,NA
+33,41,"CMR","Cameroon",2,"Centre",7,"Lekié",33,"Obala","Arrondissement","Arrondissement",NA,NA
+34,41,"CMR","Cameroon",2,"Centre",7,"Lekié",34,"Okola","Arrondissement","Arrondissement",NA,NA
+35,41,"CMR","Cameroon",2,"Centre",7,"Lekié",35,"Sa'a","Arrondissement","Arrondissement",NA,NA
+36,41,"CMR","Cameroon",2,"Centre",8,"Mbam et Inoubou",36,"Bafia","Arrondissement","Arrondissement",NA,NA
+37,41,"CMR","Cameroon",2,"Centre",8,"Mbam et Inoubou",37,"Bokito","Arrondissement","Arrondissement",NA,NA
+38,41,"CMR","Cameroon",2,"Centre",8,"Mbam et Inoubou",38,"Deuk","Arrondissement","Arrondissement",NA,NA
+39,41,"CMR","Cameroon",2,"Centre",8,"Mbam et Inoubou",39,"Kiiki","Arrondissement","Arrondissement",NA,NA
+40,41,"CMR","Cameroon",2,"Centre",8,"Mbam et Inoubou",40,"Kon-Yambetta","Arrondissement","Arrondissement",NA,NA
+41,41,"CMR","Cameroon",2,"Centre",8,"Mbam et Inoubou",41,"Makénéné","Arrondissement","Arrondissement",NA,NA
+42,41,"CMR","Cameroon",2,"Centre",8,"Mbam et Inoubou",42,"Ndikiniméki","Arrondissement","Arrondissement",NA,NA
+43,41,"CMR","Cameroon",2,"Centre",8,"Mbam et Inoubou",43,"Ntoukou","Arrondissement","Arrondissement",NA,NA
+44,41,"CMR","Cameroon",2,"Centre",8,"Mbam et Inoubou",44,"Ombessa","Arrondissement","Arrondissement",NA,NA
+45,41,"CMR","Cameroon",2,"Centre",9,"Mbam et Kim",45,"Mbangassina","Arrondissement","Arrondissement",NA,NA
+46,41,"CMR","Cameroon",2,"Centre",9,"Mbam et Kim",46,"Ngambé Tikar","Arrondissement","Arrondissement",NA,NA
+47,41,"CMR","Cameroon",2,"Centre",9,"Mbam et Kim",47,"Ngoro","Arrondissement","Arrondissement",NA,NA
+48,41,"CMR","Cameroon",2,"Centre",9,"Mbam et Kim",48,"Ntui","Arrondissement","Arrondissement",NA,NA
+49,41,"CMR","Cameroon",2,"Centre",9,"Mbam et Kim",49,"Yoko","Arrondissement","Arrondissement",NA,NA
+50,41,"CMR","Cameroon",2,"Centre",10,"Mefou et Afamba",50,"Afanloum","Arrondissement","Arrondissement",NA,NA
+51,41,"CMR","Cameroon",2,"Centre",10,"Mefou et Afamba",51,"Assamba","Arrondissement","Arrondissement",NA,NA
+52,41,"CMR","Cameroon",2,"Centre",10,"Mefou et Afamba",52,"Awaé","Arrondissement","Arrondissement",NA,NA
+53,41,"CMR","Cameroon",2,"Centre",10,"Mefou et Afamba",53,"Edzendouan","Arrondissement","Arrondissement",NA,NA
+54,41,"CMR","Cameroon",2,"Centre",10,"Mefou et Afamba",54,"Esse","Arrondissement","Arrondissement",NA,NA
+55,41,"CMR","Cameroon",2,"Centre",10,"Mefou et Afamba",55,"Mfou","Arrondissement","Arrondissement",NA,NA
+56,41,"CMR","Cameroon",2,"Centre",10,"Mefou et Afamba",56,"Nlolofamba","Arrondissement","Arrondissement",NA,NA
+57,41,"CMR","Cameroon",2,"Centre",10,"Mefou et Afamba",57,"Soa","Arrondissement","Arrondissement",NA,NA
+58,41,"CMR","Cameroon",2,"Centre",11,"Mefou et Akono",58,"Akono","Arrondissement","Arrondissement",NA,NA
+59,41,"CMR","Cameroon",2,"Centre",11,"Mefou et Akono",59,"Bikok","Arrondissement","Arrondissement",NA,NA
+60,41,"CMR","Cameroon",2,"Centre",11,"Mefou et Akono",60,"Mbankomo","Arrondissement","Arrondissement",NA,NA
+61,41,"CMR","Cameroon",2,"Centre",11,"Mefou et Akono",61,"Ngoumou","Arrondissement","Arrondissement",NA,NA
+62,41,"CMR","Cameroon",2,"Centre",12,"Mfoundi",62,"Yaoundé 1","Arrondissement","Arrondissement",NA,NA
+63,41,"CMR","Cameroon",2,"Centre",12,"Mfoundi",63,"Yaoundé 2","Arrondissement","Arrondissement",NA,NA
+64,41,"CMR","Cameroon",2,"Centre",12,"Mfoundi",64,"Yaoundé 3","Arrondissement","Arrondissement",NA,NA
+65,41,"CMR","Cameroon",2,"Centre",12,"Mfoundi",65,"Yaoundé 4","Arrondissement","Arrondissement",NA,NA
+66,41,"CMR","Cameroon",2,"Centre",12,"Mfoundi",66,"Yaoundé 5","Arrondissement","Arrondissement",NA,NA
+67,41,"CMR","Cameroon",2,"Centre",12,"Mfoundi",67,"Yaoundé 6","Arrondissement","Arrondissement",NA,NA
+68,41,"CMR","Cameroon",2,"Centre",12,"Mfoundi",68,"Yaoundé 7","Arrondissement","Arrondissement",NA,NA
+69,41,"CMR","Cameroon",2,"Centre",13,"Nyong et Kéllé",69,"Biyouha","Arrondissement","Arrondissement",NA,NA
+70,41,"CMR","Cameroon",2,"Centre",13,"Nyong et Kéllé",70,"Bondjock","Arrondissement","Arrondissement",NA,NA
+71,41,"CMR","Cameroon",2,"Centre",13,"Nyong et Kéllé",71,"Bot Makak","Arrondissement","Arrondissement",NA,NA
+72,41,"CMR","Cameroon",2,"Centre",13,"Nyong et Kéllé",72,"Dibang","Arrondissement","Arrondissement",NA,NA
+73,41,"CMR","Cameroon",2,"Centre",13,"Nyong et Kéllé",73,"Eséka","Arrondissement","Arrondissement",NA,NA
+74,41,"CMR","Cameroon",2,"Centre",13,"Nyong et Kéllé",74,"Makak","Arrondissement","Arrondissement",NA,NA
+75,41,"CMR","Cameroon",2,"Centre",13,"Nyong et Kéllé",75,"Matomb","Arrondissement","Arrondissement",NA,NA
+76,41,"CMR","Cameroon",2,"Centre",13,"Nyong et Kéllé",76,"Messondo","Arrondissement","Arrondissement",NA,NA
+77,41,"CMR","Cameroon",2,"Centre",13,"Nyong et Kéllé",77,"Ngog Mapubi","Arrondissement","Arrondissement",NA,NA
+78,41,"CMR","Cameroon",2,"Centre",13,"Nyong et Kéllé",78,"Nguibassal","Arrondissement","Arrondissement",NA,NA
+79,41,"CMR","Cameroon",2,"Centre",14,"Nyong et Mfoumou",79,"Akonolinga","Arrondissement","Arrondissement",NA,NA
+80,41,"CMR","Cameroon",2,"Centre",14,"Nyong et Mfoumou",80,"Ayos","Arrondissement","Arrondissement",NA,NA
+81,41,"CMR","Cameroon",2,"Centre",14,"Nyong et Mfoumou",81,"Endom","Arrondissement","Arrondissement",NA,NA
+82,41,"CMR","Cameroon",2,"Centre",14,"Nyong et Mfoumou",82,"Mengang","Arrondissement","Arrondissement",NA,NA
+83,41,"CMR","Cameroon",2,"Centre",14,"Nyong et Mfoumou",83,"Nyakokombo","Arrondissement","Arrondissement",NA,NA
+84,41,"CMR","Cameroon",2,"Centre",15,"Nyong et So'o",84,"Akoéman","Arrondissement","Arrondissement",NA,NA
+85,41,"CMR","Cameroon",2,"Centre",15,"Nyong et So'o",85,"Dzeng","Arrondissement","Arrondissement",NA,NA
+86,41,"CMR","Cameroon",2,"Centre",15,"Nyong et So'o",86,"Mbalmayo","Arrondissement","Arrondissement",NA,NA
+87,41,"CMR","Cameroon",2,"Centre",15,"Nyong et So'o",87,"Mengueme","Arrondissement","Arrondissement",NA,NA
+88,41,"CMR","Cameroon",2,"Centre",15,"Nyong et So'o",88,"Ngomedzap","Arrondissement","Arrondissement",NA,NA
+89,41,"CMR","Cameroon",2,"Centre",15,"Nyong et So'o",89,"Nkolmetet","Arrondissement","Arrondissement",NA,NA
+90,41,"CMR","Cameroon",3,"Est",16,"Boumba et Ngoko",90,"Gari Gombo","Arrondissement","Arrondissement",NA,NA
+91,41,"CMR","Cameroon",3,"Est",16,"Boumba et Ngoko",91,"Moloundou","Arrondissement","Arrondissement",NA,NA
+92,41,"CMR","Cameroon",3,"Est",16,"Boumba et Ngoko",92,"Salapoumbé","Arrondissement","Arrondissement",NA,NA
+93,41,"CMR","Cameroon",3,"Est",16,"Boumba et Ngoko",93,"Yokadouma","Arrondissement","Arrondissement",NA,NA
+94,41,"CMR","Cameroon",3,"Est",17,"Haut Nyong",94,"Abong Mbang","Arrondissement","Arrondissement",NA,NA
+95,41,"CMR","Cameroon",3,"Est",17,"Haut Nyong",95,"Atok","Arrondissement","Arrondissement",NA,NA
+96,41,"CMR","Cameroon",3,"Est",17,"Haut Nyong",96,"Dimako","Arrondissement","Arrondissement",NA,NA
+97,41,"CMR","Cameroon",3,"Est",17,"Haut Nyong",97,"Dja","Arrondissement","Arrondissement",NA,NA
+98,41,"CMR","Cameroon",3,"Est",17,"Haut Nyong",98,"Doumé","Arrondissement","Arrondissement",NA,NA
+99,41,"CMR","Cameroon",3,"Est",17,"Haut Nyong",99,"Doumétang","Arrondissement","Arrondissement",NA,NA
+100,41,"CMR","Cameroon",3,"Est",17,"Haut Nyong",100,"Lomié","Arrondissement","Arrondissement",NA,NA
+101,41,"CMR","Cameroon",3,"Est",17,"Haut Nyong",101,"Mboma","Arrondissement","Arrondissement",NA,NA
+102,41,"CMR","Cameroon",3,"Est",17,"Haut Nyong",102,"Mbouanz","Arrondissement","Arrondissement",NA,NA
+103,41,"CMR","Cameroon",3,"Est",17,"Haut Nyong",103,"Messamena","Arrondissement","Arrondissement",NA,NA
+104,41,"CMR","Cameroon",3,"Est",17,"Haut Nyong",104,"Messok","Arrondissement","Arrondissement",NA,NA
+105,41,"CMR","Cameroon",3,"Est",17,"Haut Nyong",105,"Ngoïla","Arrondissement","Arrondissement",NA,NA
+106,41,"CMR","Cameroon",3,"Est",17,"Haut Nyong",106,"Nguélémendouga","Arrondissement","Arrondissement",NA,NA
+107,41,"CMR","Cameroon",3,"Est",17,"Haut Nyong",107,"Somalomo","Arrondissement","Arrondissement",NA,NA
+108,41,"CMR","Cameroon",3,"Est",18,"Kadey",108,"Batouri","Arrondissement","Arrondissement",NA,NA
+109,41,"CMR","Cameroon",3,"Est",18,"Kadey",109,"Bombé","Arrondissement","Arrondissement",NA,NA
+110,41,"CMR","Cameroon",3,"Est",18,"Kadey",110,"Kétté","Arrondissement","Arrondissement",NA,NA
+111,41,"CMR","Cameroon",3,"Est",18,"Kadey",111,"Mbang","Arrondissement","Arrondissement",NA,NA
+112,41,"CMR","Cameroon",3,"Est",18,"Kadey",112,"Mbotoro","Arrondissement","Arrondissement",NA,NA
+113,41,"CMR","Cameroon",3,"Est",18,"Kadey",113,"Ndélélé","Arrondissement","Arrondissement",NA,NA
+114,41,"CMR","Cameroon",3,"Est",18,"Kadey",114,"Ndem Nam","Arrondissement","Arrondissement",NA,NA
+115,41,"CMR","Cameroon",3,"Est",19,"Lom et Djerem",115,"Bélabo","Arrondissement","Arrondissement",NA,NA
+116,41,"CMR","Cameroon",3,"Est",19,"Lom et Djerem",116,"Bétaré Oya","Arrondissement","Arrondissement",NA,NA
+117,41,"CMR","Cameroon",3,"Est",19,"Lom et Djerem",117,"Bertoua 1","Arrondissement","Arrondissement",NA,NA
+118,41,"CMR","Cameroon",3,"Est",19,"Lom et Djerem",118,"Bertoua 2","Arrondissement","Arrondissement",NA,NA
+119,41,"CMR","Cameroon",3,"Est",19,"Lom et Djerem",119,"Diang","Arrondissement","Arrondissement",NA,NA
+120,41,"CMR","Cameroon",3,"Est",19,"Lom et Djerem",120,"Garoua Boulaî","Arrondissement","Arrondissement",NA,NA
+121,41,"CMR","Cameroon",3,"Est",19,"Lom et Djerem",121,"Mandjou","Arrondissement","Arrondissement",NA,NA
+122,41,"CMR","Cameroon",3,"Est",19,"Lom et Djerem",122,"Ngoura","Arrondissement","Arrondissement",NA,NA
+123,41,"CMR","Cameroon",4,"Extrême-Nord",20,"Diamaré",123,"Bogo","Arrondissement","Arrondissement",NA,NA
+124,41,"CMR","Cameroon",4,"Extrême-Nord",20,"Diamaré",124,"Dargala","Arrondissement","Arrondissement",NA,NA
+125,41,"CMR","Cameroon",4,"Extrême-Nord",20,"Diamaré",125,"Gasawa","Arrondissement","Arrondissement",NA,NA
+126,41,"CMR","Cameroon",4,"Extrême-Nord",20,"Diamaré",126,"Méri","Arrondissement","Arrondissement",NA,NA
+127,41,"CMR","Cameroon",4,"Extrême-Nord",20,"Diamaré",127,"Maroua 1","Arrondissement","Arrondissement",NA,NA
+128,41,"CMR","Cameroon",4,"Extrême-Nord",20,"Diamaré",128,"Maroua 2","Arrondissement","Arrondissement",NA,NA
+129,41,"CMR","Cameroon",4,"Extrême-Nord",20,"Diamaré",129,"Maroua 3","Arrondissement","Arrondissement",NA,NA
+130,41,"CMR","Cameroon",4,"Extrême-Nord",20,"Diamaré",130,"Ndoukoula","Arrondissement","Arrondissement",NA,NA
+131,41,"CMR","Cameroon",4,"Extrême-Nord",20,"Diamaré",131,"Pété","Arrondissement","Arrondissement",NA,NA
+132,41,"CMR","Cameroon",4,"Extrême-Nord",21,"Logone et Chari",132,"Blangoua","Arrondissement","Arrondissement",NA,NA
+133,41,"CMR","Cameroon",4,"Extrême-Nord",21,"Logone et Chari",133,"Darrak","Arrondissement","Arrondissement",NA,NA
+134,41,"CMR","Cameroon",4,"Extrême-Nord",21,"Logone et Chari",134,"Goulfey","Arrondissement","Arrondissement",NA,NA
+135,41,"CMR","Cameroon",4,"Extrême-Nord",21,"Logone et Chari",135,"Hilé Alifa","Arrondissement","Arrondissement",NA,NA
+136,41,"CMR","Cameroon",4,"Extrême-Nord",21,"Logone et Chari",136,"Kousséri","Arrondissement","Arrondissement",NA,NA
+137,41,"CMR","Cameroon",4,"Extrême-Nord",21,"Logone et Chari",137,"Logone Birni","Arrondissement","Arrondissement",NA,NA
+138,41,"CMR","Cameroon",4,"Extrême-Nord",21,"Logone et Chari",138,"Makari","Arrondissement","Arrondissement",NA,NA
+139,41,"CMR","Cameroon",4,"Extrême-Nord",21,"Logone et Chari",139,"Waza","Arrondissement","Arrondissement",NA,NA
+140,41,"CMR","Cameroon",4,"Extrême-Nord",21,"Logone et Chari",140,"Zina","Arrondissement","Arrondissement",NA,NA
+141,41,"CMR","Cameroon",4,"Extrême-Nord",22,"Mayo Danay",141,"Datchéka","Arrondissement","Arrondissement",NA,NA
+142,41,"CMR","Cameroon",4,"Extrême-Nord",22,"Mayo Danay",142,"Gobo","Arrondissement","Arrondissement",NA,NA
+143,41,"CMR","Cameroon",4,"Extrême-Nord",22,"Mayo Danay",143,"Guéré","Arrondissement","Arrondissement",NA,NA
+144,41,"CMR","Cameroon",4,"Extrême-Nord",22,"Mayo Danay",144,"Kalfou","Arrondissement","Arrondissement",NA,NA
+145,41,"CMR","Cameroon",4,"Extrême-Nord",22,"Mayo Danay",145,"Kar Hay","Arrondissement","Arrondissement",NA,NA
+146,41,"CMR","Cameroon",4,"Extrême-Nord",22,"Mayo Danay",146,"Kay Kay","Arrondissement","Arrondissement",NA,NA
+147,41,"CMR","Cameroon",4,"Extrême-Nord",22,"Mayo Danay",147,"Maga","Arrondissement","Arrondissement",NA,NA
+148,41,"CMR","Cameroon",4,"Extrême-Nord",22,"Mayo Danay",148,"Porhi","Arrondissement","Arrondissement",NA,NA
+149,41,"CMR","Cameroon",4,"Extrême-Nord",22,"Mayo Danay",149,"Tchatibali","Arrondissement","Arrondissement",NA,NA
+150,41,"CMR","Cameroon",4,"Extrême-Nord",22,"Mayo Danay",150,"Vélé","Arrondissement","Arrondissement",NA,NA
+151,41,"CMR","Cameroon",4,"Extrême-Nord",22,"Mayo Danay",151,"Wina","Arrondissement","Arrondissement",NA,NA
+152,41,"CMR","Cameroon",4,"Extrême-Nord",22,"Mayo Danay",152,"Yagoua","Arrondissement","Arrondissement",NA,NA
+153,41,"CMR","Cameroon",4,"Extrême-Nord",23,"Mayo Kani",153,"Guidiguis","Arrondissement","Arrondissement",NA,NA
+154,41,"CMR","Cameroon",4,"Extrême-Nord",23,"Mayo Kani",154,"Kaele","Arrondissement","Arrondissement",NA,NA
+155,41,"CMR","Cameroon",4,"Extrême-Nord",23,"Mayo Kani",155,"Mindif","Arrondissement","Arrondissement",NA,NA
+156,41,"CMR","Cameroon",4,"Extrême-Nord",23,"Mayo Kani",156,"Montouroua","Arrondissement","Arrondissement",NA,NA
+157,41,"CMR","Cameroon",4,"Extrême-Nord",23,"Mayo Kani",157,"Moulvouday","Arrondissement","Arrondissement",NA,NA
+158,41,"CMR","Cameroon",4,"Extrême-Nord",23,"Mayo Kani",158,"Taîbong","Arrondissement","Arrondissement",NA,NA
+159,41,"CMR","Cameroon",4,"Extrême-Nord",24,"Mayo Sava",159,"Kolofata","Arrondissement","Arrondissement",NA,NA
+160,41,"CMR","Cameroon",4,"Extrême-Nord",24,"Mayo Sava",160,"Mora","Arrondissement","Arrondissement",NA,NA
+161,41,"CMR","Cameroon",4,"Extrême-Nord",24,"Mayo Sava",161,"Tokombéré","Arrondissement","Arrondissement",NA,NA
+162,41,"CMR","Cameroon",4,"Extrême-Nord",25,"Mayo Tsanaga",162,"Bourrah","Arrondissement","Arrondissement",NA,NA
+163,41,"CMR","Cameroon",4,"Extrême-Nord",25,"Mayo Tsanaga",163,"Hina","Arrondissement","Arrondissement",NA,NA
+164,41,"CMR","Cameroon",4,"Extrême-Nord",25,"Mayo Tsanaga",164,"Koza","Arrondissement","Arrondissement",NA,NA
+165,41,"CMR","Cameroon",4,"Extrême-Nord",25,"Mayo Tsanaga",165,"Mayo Moskota","Arrondissement","Arrondissement",NA,NA
+166,41,"CMR","Cameroon",4,"Extrême-Nord",25,"Mayo Tsanaga",166,"Mogodé","Arrondissement","Arrondissement",NA,NA
+167,41,"CMR","Cameroon",4,"Extrême-Nord",25,"Mayo Tsanaga",167,"Mokolo","Arrondissement","Arrondissement",NA,NA
+168,41,"CMR","Cameroon",4,"Extrême-Nord",25,"Mayo Tsanaga",168,"Soulédé Roua","Arrondissement","Arrondissement",NA,NA
+169,41,"CMR","Cameroon",5,"Littoral",26,"Moungo",169,"Baré Bakem","Arrondissement","Arrondissement",NA,NA
+170,41,"CMR","Cameroon",5,"Littoral",26,"Moungo",170,"Bonaléa","Arrondissement","Arrondissement",NA,NA
+171,41,"CMR","Cameroon",5,"Littoral",26,"Moungo",171,"Dibombari","Arrondissement","Arrondissement",NA,NA
+172,41,"CMR","Cameroon",5,"Littoral",26,"Moungo",172,"Loum","Arrondissement","Arrondissement",NA,NA
+173,41,"CMR","Cameroon",5,"Littoral",26,"Moungo",173,"Manjo","Arrondissement","Arrondissement",NA,NA
+174,41,"CMR","Cameroon",5,"Littoral",26,"Moungo",174,"Mbanga","Arrondissement","Arrondissement",NA,NA
+175,41,"CMR","Cameroon",5,"Littoral",26,"Moungo",175,"Melong","Arrondissement","Arrondissement",NA,NA
+176,41,"CMR","Cameroon",5,"Littoral",26,"Moungo",176,"Mombo","Arrondissement","Arrondissement",NA,NA
+177,41,"CMR","Cameroon",5,"Littoral",26,"Moungo",177,"Njombé Penja","Arrondissement","Arrondissement",NA,NA
+178,41,"CMR","Cameroon",5,"Littoral",26,"Moungo",178,"Nkongsamba 1","Arrondissement","Arrondissement",NA,NA
+179,41,"CMR","Cameroon",5,"Littoral",26,"Moungo",179,"Nkongsamba 2","Arrondissement","Arrondissement",NA,NA
+180,41,"CMR","Cameroon",5,"Littoral",26,"Moungo",180,"Nkongsamba 3","Arrondissement","Arrondissement",NA,NA
+181,41,"CMR","Cameroon",5,"Littoral",26,"Moungo",181,"Nlonako","Arrondissement","Arrondissement",NA,NA
+182,41,"CMR","Cameroon",5,"Littoral",27,"Nkam",182,"Baré","Arrondissement","Arrondissement",NA,NA
+183,41,"CMR","Cameroon",5,"Littoral",27,"Nkam",183,"Nkondjock","Arrondissement","Arrondissement",NA,NA
+184,41,"CMR","Cameroon",5,"Littoral",27,"Nkam",184,"Nord Makombé","Arrondissement","Arrondissement",NA,NA
+185,41,"CMR","Cameroon",5,"Littoral",27,"Nkam",185,"Yabassi","Arrondissement","Arrondissement",NA,NA
+186,41,"CMR","Cameroon",5,"Littoral",27,"Nkam",186,"Yingui","Arrondissement","Arrondissement",NA,NA
+187,41,"CMR","Cameroon",5,"Littoral",28,"Sanaga Maritime",187,"Dibamba","Arrondissement","Arrondissement",NA,NA
+188,41,"CMR","Cameroon",5,"Littoral",28,"Sanaga Maritime",188,"Dizangué","Arrondissement","Arrondissement",NA,NA
+189,41,"CMR","Cameroon",5,"Littoral",28,"Sanaga Maritime",189,"Douala 6","Arrondissement","Arrondissement",NA,NA
+190,41,"CMR","Cameroon",5,"Littoral",28,"Sanaga Maritime",190,"Edéa 1","Arrondissement","Arrondissement",NA,NA
+191,41,"CMR","Cameroon",5,"Littoral",28,"Sanaga Maritime",191,"Edéa 2","Arrondissement","Arrondissement",NA,NA
+192,41,"CMR","Cameroon",5,"Littoral",28,"Sanaga Maritime",192,"Massok Song Loulou","Arrondissement","Arrondissement",NA,NA
+193,41,"CMR","Cameroon",5,"Littoral",28,"Sanaga Maritime",193,"Mouanko","Arrondissement","Arrondissement",NA,NA
+194,41,"CMR","Cameroon",5,"Littoral",28,"Sanaga Maritime",194,"Ndom","Arrondissement","Arrondissement",NA,NA
+195,41,"CMR","Cameroon",5,"Littoral",28,"Sanaga Maritime",195,"Ngambé","Arrondissement","Arrondissement",NA,NA
+196,41,"CMR","Cameroon",5,"Littoral",28,"Sanaga Maritime",196,"Ngwei","Arrondissement","Arrondissement",NA,NA
+197,41,"CMR","Cameroon",5,"Littoral",28,"Sanaga Maritime",197,"Nyanon","Arrondissement","Arrondissement",NA,NA
+198,41,"CMR","Cameroon",5,"Littoral",28,"Sanaga Maritime",198,"Pouma","Arrondissement","Arrondissement",NA,NA
+199,41,"CMR","Cameroon",5,"Littoral",29,"Wouri",199,"Douala 1","Arrondissement","Arrondissement",NA,NA
+200,41,"CMR","Cameroon",5,"Littoral",29,"Wouri",200,"Douala 2","Arrondissement","Arrondissement",NA,NA
+201,41,"CMR","Cameroon",5,"Littoral",29,"Wouri",201,"Douala 3","Arrondissement","Arrondissement",NA,NA
+202,41,"CMR","Cameroon",5,"Littoral",29,"Wouri",202,"Douala 4","Arrondissement","Arrondissement",NA,NA
+203,41,"CMR","Cameroon",5,"Littoral",29,"Wouri",203,"Douala 5","Arrondissement","Arrondissement",NA,NA
+204,41,"CMR","Cameroon",6,"Nord-Ouest",30,"Boyo",204,"Belo","Arrondissement","Arrondissement",NA,NA
+205,41,"CMR","Cameroon",6,"Nord-Ouest",30,"Boyo",205,"Bum","Arrondissement","Arrondissement",NA,NA
+206,41,"CMR","Cameroon",6,"Nord-Ouest",30,"Boyo",206,"Fundong","Arrondissement","Arrondissement",NA,NA
+207,41,"CMR","Cameroon",6,"Nord-Ouest",30,"Boyo",207,"Njinikom","Arrondissement","Arrondissement",NA,NA
+208,41,"CMR","Cameroon",6,"Nord-Ouest",31,"Bui",208,"Jakiri","Arrondissement","Arrondissement",NA,NA
+209,41,"CMR","Cameroon",6,"Nord-Ouest",31,"Bui",209,"Kumbo","Arrondissement","Arrondissement",NA,NA
+210,41,"CMR","Cameroon",6,"Nord-Ouest",31,"Bui",210,"Mbven","Arrondissement","Arrondissement",NA,NA
+211,41,"CMR","Cameroon",6,"Nord-Ouest",31,"Bui",211,"Nkum","Arrondissement","Arrondissement",NA,NA
+212,41,"CMR","Cameroon",6,"Nord-Ouest",31,"Bui",212,"Noni","Arrondissement","Arrondissement",NA,NA
+213,41,"CMR","Cameroon",6,"Nord-Ouest",31,"Bui",213,"Oku","Arrondissement","Arrondissement",NA,NA
+214,41,"CMR","Cameroon",6,"Nord-Ouest",32,"Donga Mantung",214,"Ako","Arrondissement","Arrondissement",NA,NA
+215,41,"CMR","Cameroon",6,"Nord-Ouest",32,"Donga Mantung",215,"Misaje","Arrondissement","Arrondissement",NA,NA
+216,41,"CMR","Cameroon",6,"Nord-Ouest",32,"Donga Mantung",216,"Ndu","Arrondissement","Arrondissement",NA,NA
+217,41,"CMR","Cameroon",6,"Nord-Ouest",32,"Donga Mantung",217,"Nkambe","Arrondissement","Arrondissement",NA,NA
+218,41,"CMR","Cameroon",6,"Nord-Ouest",32,"Donga Mantung",218,"Nwa","Arrondissement","Arrondissement",NA,NA
+219,41,"CMR","Cameroon",6,"Nord-Ouest",33,"Menchum",219,"Fungom","Arrondissement","Arrondissement",NA,NA
+220,41,"CMR","Cameroon",6,"Nord-Ouest",33,"Menchum",220,"Furu Awa","Arrondissement","Arrondissement",NA,NA
+221,41,"CMR","Cameroon",6,"Nord-Ouest",33,"Menchum",221,"Menchum Valley","Arrondissement","Arrondissement",NA,NA
+222,41,"CMR","Cameroon",6,"Nord-Ouest",33,"Menchum",222,"Wum","Arrondissement","Arrondissement",NA,NA
+223,41,"CMR","Cameroon",6,"Nord-Ouest",34,"Mezam",223,"Bafut","Arrondissement","Arrondissement",NA,NA
+224,41,"CMR","Cameroon",6,"Nord-Ouest",34,"Mezam",224,"Bali","Arrondissement","Arrondissement",NA,NA
+225,41,"CMR","Cameroon",6,"Nord-Ouest",34,"Mezam",225,"Bamenda 1","Arrondissement","Arrondissement",NA,NA
+226,41,"CMR","Cameroon",6,"Nord-Ouest",34,"Mezam",226,"Bamenda 2","Arrondissement","Arrondissement",NA,NA
+227,41,"CMR","Cameroon",6,"Nord-Ouest",34,"Mezam",227,"Bamenda 3","Arrondissement","Arrondissement",NA,NA
+228,41,"CMR","Cameroon",6,"Nord-Ouest",34,"Mezam",228,"Santa","Arrondissement","Arrondissement",NA,NA
+229,41,"CMR","Cameroon",6,"Nord-Ouest",34,"Mezam",229,"Tubah","Arrondissement","Arrondissement",NA,NA
+230,41,"CMR","Cameroon",6,"Nord-Ouest",35,"Momo",230,"Batibo","Arrondissement","Arrondissement",NA,NA
+231,41,"CMR","Cameroon",6,"Nord-Ouest",35,"Momo",231,"Mbeggwi","Arrondissement","Arrondissement",NA,NA
+232,41,"CMR","Cameroon",6,"Nord-Ouest",35,"Momo",232,"Ngie","Arrondissement","Arrondissement",NA,NA
+233,41,"CMR","Cameroon",6,"Nord-Ouest",35,"Momo",233,"Njikwa","Arrondissement","Arrondissement",NA,NA
+234,41,"CMR","Cameroon",6,"Nord-Ouest",35,"Momo",234,"Widikum Menka","Arrondissement","Arrondissement",NA,NA
+235,41,"CMR","Cameroon",6,"Nord-Ouest",36,"Ngo Ketunjia",235,"Babessi","Arrondissement","Arrondissement",NA,NA
+236,41,"CMR","Cameroon",6,"Nord-Ouest",36,"Ngo Ketunjia",236,"Balikumbat","Arrondissement","Arrondissement",NA,NA
+237,41,"CMR","Cameroon",6,"Nord-Ouest",36,"Ngo Ketunjia",237,"Ndop","Arrondissement","Arrondissement",NA,NA
+238,41,"CMR","Cameroon",7,"Nord",37,"Bénoué",238,"Bachéo","Arrondissement","Arrondissement",NA,NA
+239,41,"CMR","Cameroon",7,"Nord",37,"Bénoué",239,"Bardanké","Arrondissement","Arrondissement",NA,NA
+240,41,"CMR","Cameroon",7,"Nord",37,"Bénoué",240,"Bibémi","Arrondissement","Arrondissement",NA,NA
+241,41,"CMR","Cameroon",7,"Nord",37,"Bénoué",241,"Dembo","Arrondissement","Arrondissement",NA,NA
+242,41,"CMR","Cameroon",7,"Nord",37,"Bénoué",242,"Demsa","Arrondissement","Arrondissement",NA,NA
+243,41,"CMR","Cameroon",7,"Nord",37,"Bénoué",243,"Garoua 1","Arrondissement","Arrondissement",NA,NA
+244,41,"CMR","Cameroon",7,"Nord",37,"Bénoué",244,"Garoua 2","Arrondissement","Arrondissement",NA,NA
+245,41,"CMR","Cameroon",7,"Nord",37,"Bénoué",245,"Garoua 3","Arrondissement","Arrondissement",NA,NA
+246,41,"CMR","Cameroon",7,"Nord",37,"Bénoué",246,"Lagdo","Arrondissement","Arrondissement",NA,NA
+247,41,"CMR","Cameroon",7,"Nord",37,"Bénoué",247,"Pitoa","Arrondissement","Arrondissement",NA,NA
+248,41,"CMR","Cameroon",7,"Nord",37,"Bénoué",248,"Tchéboa","Arrondissement","Arrondissement",NA,NA
+249,41,"CMR","Cameroon",7,"Nord",37,"Bénoué",249,"Touroua","Arrondissement","Arrondissement",NA,NA
+250,41,"CMR","Cameroon",7,"Nord",38,"Faro",250,"Béka","Arrondissement","Arrondissement",NA,NA
+251,41,"CMR","Cameroon",7,"Nord",38,"Faro",251,"Kontcha","Arrondissement","Arrondissement",NA,NA
+252,41,"CMR","Cameroon",7,"Nord",38,"Faro",252,"Poli","Arrondissement","Arrondissement",NA,NA
+253,41,"CMR","Cameroon",7,"Nord",39,"Mayo Louti",253,"Figuil","Arrondissement","Arrondissement",NA,NA
+254,41,"CMR","Cameroon",7,"Nord",39,"Mayo Louti",254,"Guider","Arrondissement","Arrondissement",NA,NA
+255,41,"CMR","Cameroon",7,"Nord",39,"Mayo Louti",255,"Mayo Oulo","Arrondissement","Arrondissement",NA,NA
+256,41,"CMR","Cameroon",7,"Nord",40,"Mayo Rey",256,"Madingring","Arrondissement","Arrondissement",NA,NA
+257,41,"CMR","Cameroon",7,"Nord",40,"Mayo Rey",257,"Rey Bouba","Arrondissement","Arrondissement",NA,NA
+258,41,"CMR","Cameroon",7,"Nord",40,"Mayo Rey",258,"Tcholliré","Arrondissement","Arrondissement",NA,NA
+259,41,"CMR","Cameroon",7,"Nord",40,"Mayo Rey",259,"Touboro","Arrondissement","Arrondissement",NA,NA
+260,41,"CMR","Cameroon",8,"Ouest",41,"Bamboutos",260,"Babadjou","Arrondissement","Arrondissement",NA,NA
+261,41,"CMR","Cameroon",8,"Ouest",41,"Bamboutos",261,"Batcham","Arrondissement","Arrondissement",NA,NA
+262,41,"CMR","Cameroon",8,"Ouest",41,"Bamboutos",262,"Galim","Arrondissement","Arrondissement",NA,NA
+263,41,"CMR","Cameroon",8,"Ouest",41,"Bamboutos",263,"Mbouda","Arrondissement","Arrondissement",NA,NA
+264,41,"CMR","Cameroon",8,"Ouest",42,"Haut Nkam",264,"Bafang","Arrondissement","Arrondissement",NA,NA
+265,41,"CMR","Cameroon",8,"Ouest",42,"Haut Nkam",265,"Bakou","Arrondissement","Arrondissement",NA,NA
+266,41,"CMR","Cameroon",8,"Ouest",42,"Haut Nkam",266,"Bana","Arrondissement","Arrondissement",NA,NA
+267,41,"CMR","Cameroon",8,"Ouest",42,"Haut Nkam",267,"Bandja","Arrondissement","Arrondissement",NA,NA
+268,41,"CMR","Cameroon",8,"Ouest",42,"Haut Nkam",268,"Banka","Arrondissement","Arrondissement",NA,NA
+269,41,"CMR","Cameroon",8,"Ouest",42,"Haut Nkam",269,"Banwa","Arrondissement","Arrondissement",NA,NA
+270,41,"CMR","Cameroon",8,"Ouest",42,"Haut Nkam",270,"Kekem","Arrondissement","Arrondissement",NA,NA
+271,41,"CMR","Cameroon",8,"Ouest",43,"Hauts Plateaux",271,"Baham","Arrondissement","Arrondissement",NA,NA
+272,41,"CMR","Cameroon",8,"Ouest",43,"Hauts Plateaux",272,"Bamendjou","Arrondissement","Arrondissement",NA,NA
+273,41,"CMR","Cameroon",8,"Ouest",43,"Hauts Plateaux",273,"Bangou","Arrondissement","Arrondissement",NA,NA
+274,41,"CMR","Cameroon",8,"Ouest",43,"Hauts Plateaux",274,"Batie","Arrondissement","Arrondissement",NA,NA
+275,41,"CMR","Cameroon",8,"Ouest",44,"Koung Khi",275,"Bandjoun","Arrondissement","Arrondissement",NA,NA
+276,41,"CMR","Cameroon",8,"Ouest",44,"Koung Khi",276,"Bayangam","Arrondissement","Arrondissement",NA,NA
+277,41,"CMR","Cameroon",8,"Ouest",44,"Koung Khi",277,"Djemrem","Arrondissement","Arrondissement",NA,NA
+278,41,"CMR","Cameroon",8,"Ouest",44,"Koung Khi",278,"Poumegne","Arrondissement","Arrondissement",NA,NA
+279,41,"CMR","Cameroon",8,"Ouest",45,"Menoua",279,"Dschang","Arrondissement","Arrondissement",NA,NA
+280,41,"CMR","Cameroon",8,"Ouest",45,"Menoua",280,"Fokoue","Arrondissement","Arrondissement",NA,NA
+281,41,"CMR","Cameroon",8,"Ouest",45,"Menoua",281,"Fongo Tongo","Arrondissement","Arrondissement",NA,NA
+282,41,"CMR","Cameroon",8,"Ouest",45,"Menoua",282,"Nkong-Nkhi","Arrondissement","Arrondissement",NA,NA
+283,41,"CMR","Cameroon",8,"Ouest",45,"Menoua",283,"Penka Michel","Arrondissement","Arrondissement",NA,NA
+284,41,"CMR","Cameroon",8,"Ouest",45,"Menoua",284,"Santchou","Arrondissement","Arrondissement",NA,NA
+285,41,"CMR","Cameroon",8,"Ouest",46,"Mifi",285,"Bafoussam 1","Arrondissement","Arrondissement",NA,NA
+286,41,"CMR","Cameroon",8,"Ouest",46,"Mifi",286,"Bafoussam 2","Arrondissement","Arrondissement",NA,NA
+287,41,"CMR","Cameroon",8,"Ouest",46,"Mifi",287,"Bafoussam 3","Arrondissement","Arrondissement",NA,NA
+288,41,"CMR","Cameroon",8,"Ouest",47,"Ndé",288,"Bangangté","Arrondissement","Arrondissement",NA,NA
+289,41,"CMR","Cameroon",8,"Ouest",47,"Ndé",289,"Bassamba","Arrondissement","Arrondissement",NA,NA
+290,41,"CMR","Cameroon",8,"Ouest",47,"Ndé",290,"Bazou","Arrondissement","Arrondissement",NA,NA
+291,41,"CMR","Cameroon",8,"Ouest",47,"Ndé",291,"Tonga","Arrondissement","Arrondissement",NA,NA
+292,41,"CMR","Cameroon",8,"Ouest",48,"Noun",292,"Bangourain","Arrondissement","Arrondissement",NA,NA
+293,41,"CMR","Cameroon",8,"Ouest",48,"Noun",293,"Foumban","Arrondissement","Arrondissement",NA,NA
+294,41,"CMR","Cameroon",8,"Ouest",48,"Noun",294,"Foumbot","Arrondissement","Arrondissement",NA,NA
+295,41,"CMR","Cameroon",8,"Ouest",48,"Noun",295,"Kouoptamo","Arrondissement","Arrondissement",NA,NA
+296,41,"CMR","Cameroon",8,"Ouest",48,"Noun",296,"Koutaba","Arrondissement","Arrondissement",NA,NA
+297,41,"CMR","Cameroon",8,"Ouest",48,"Noun",297,"Magba","Arrondissement","Arrondissement",NA,NA
+298,41,"CMR","Cameroon",8,"Ouest",48,"Noun",298,"Malantouen","Arrondissement","Arrondissement",NA,NA
+299,41,"CMR","Cameroon",8,"Ouest",48,"Noun",299,"Massangam","Arrondissement","Arrondissement",NA,NA
+300,41,"CMR","Cameroon",8,"Ouest",48,"Noun",300,"Njimom","Arrondissement","Arrondissement",NA,NA
+301,41,"CMR","Cameroon",9,"Sud-Ouest",49,"Fako",301,"Buéa","Arrondissement","Arrondissement",NA,NA
+302,41,"CMR","Cameroon",9,"Sud-Ouest",49,"Fako",302,"Limbé 1","Arrondissement","Arrondissement",NA,NA
+303,41,"CMR","Cameroon",9,"Sud-Ouest",49,"Fako",303,"Limbé 2","Arrondissement","Arrondissement",NA,NA
+304,41,"CMR","Cameroon",9,"Sud-Ouest",49,"Fako",304,"Limbé 3","Arrondissement","Arrondissement",NA,NA
+305,41,"CMR","Cameroon",9,"Sud-Ouest",49,"Fako",305,"Muyuka","Arrondissement","Arrondissement",NA,NA
+306,41,"CMR","Cameroon",9,"Sud-Ouest",49,"Fako",306,"Tiko","Arrondissement","Arrondissement",NA,NA
+307,41,"CMR","Cameroon",9,"Sud-Ouest",49,"Fako",307,"West Coast","Arrondissement","Arrondissement",NA,NA
+308,41,"CMR","Cameroon",9,"Sud-Ouest",50,"Koupé Manengouba",308,"Bangem","Arrondissement","Arrondissement",NA,NA
+309,41,"CMR","Cameroon",9,"Sud-Ouest",50,"Koupé Manengouba",309,"Nguti","Arrondissement","Arrondissement",NA,NA
+310,41,"CMR","Cameroon",9,"Sud-Ouest",50,"Koupé Manengouba",310,"Tombel","Arrondissement","Arrondissement",NA,NA
+311,41,"CMR","Cameroon",9,"Sud-Ouest",51,"Lebialem",311,"Alou","Arrondissement","Arrondissement",NA,NA
+312,41,"CMR","Cameroon",9,"Sud-Ouest",51,"Lebialem",312,"Fontem","Arrondissement","Arrondissement",NA,NA
+313,41,"CMR","Cameroon",9,"Sud-Ouest",51,"Lebialem",313,"Wabane","Arrondissement","Arrondissement",NA,NA
+314,41,"CMR","Cameroon",9,"Sud-Ouest",52,"Manyu",314,"Akwaya","Arrondissement","Arrondissement",NA,NA
+315,41,"CMR","Cameroon",9,"Sud-Ouest",52,"Manyu",315,"Eyumodjock","Arrondissement","Arrondissement",NA,NA
+316,41,"CMR","Cameroon",9,"Sud-Ouest",52,"Manyu",316,"Mamfé","Arrondissement","Arrondissement",NA,NA
+317,41,"CMR","Cameroon",9,"Sud-Ouest",52,"Manyu",317,"Upper Bayang","Arrondissement","Arrondissement",NA,NA
+318,41,"CMR","Cameroon",9,"Sud-Ouest",53,"Meme",318,"Konye","Arrondissement","Arrondissement",NA,NA
+319,41,"CMR","Cameroon",9,"Sud-Ouest",53,"Meme",319,"Kumba 1","Arrondissement","Arrondissement",NA,NA
+320,41,"CMR","Cameroon",9,"Sud-Ouest",53,"Meme",320,"Kumba 2","Arrondissement","Arrondissement",NA,NA
+321,41,"CMR","Cameroon",9,"Sud-Ouest",53,"Meme",321,"Kumba 3","Arrondissement","Arrondissement",NA,NA
+322,41,"CMR","Cameroon",9,"Sud-Ouest",53,"Meme",322,"Mbongé","Arrondissement","Arrondissement",NA,NA
+323,41,"CMR","Cameroon",9,"Sud-Ouest",54,"Ndian",323,"Bamuso","Arrondissement","Arrondissement",NA,NA
+324,41,"CMR","Cameroon",9,"Sud-Ouest",54,"Ndian",324,"Dikome value","Arrondissement","Arrondissement",NA,NA
+325,41,"CMR","Cameroon",9,"Sud-Ouest",54,"Ndian",325,"Ekondo Titi","Arrondissement","Arrondissement",NA,NA
+326,41,"CMR","Cameroon",9,"Sud-Ouest",54,"Ndian",326,"Idabato","Arrondissement","Arrondissement",NA,NA
+327,41,"CMR","Cameroon",9,"Sud-Ouest",54,"Ndian",327,"Isangele","Arrondissement","Arrondissement",NA,NA
+328,41,"CMR","Cameroon",9,"Sud-Ouest",54,"Ndian",328,"Kombo Abedimo","Arrondissement","Arrondissement",NA,NA
+329,41,"CMR","Cameroon",9,"Sud-Ouest",54,"Ndian",329,"Kombo Etindi","Arrondissement","Arrondissement",NA,NA
+330,41,"CMR","Cameroon",9,"Sud-Ouest",54,"Ndian",330,"Mundemba","Arrondissement","Arrondissement",NA,NA
+331,41,"CMR","Cameroon",9,"Sud-Ouest",54,"Ndian",331,"Toko","Arrondissement","Arrondissement",NA,NA
+332,41,"CMR","Cameroon",10,"Sud",55,"Dja et Lobo",332,"Bengbis","Arrondissement","Arrondissement",NA,NA
+333,41,"CMR","Cameroon",10,"Sud",55,"Dja et Lobo",333,"Djoum","Arrondissement","Arrondissement",NA,NA
+334,41,"CMR","Cameroon",10,"Sud",55,"Dja et Lobo",334,"Meyomessala","Arrondissement","Arrondissement",NA,NA
+335,41,"CMR","Cameroon",10,"Sud",55,"Dja et Lobo",335,"Meyomessi","Arrondissement","Arrondissement",NA,NA
+336,41,"CMR","Cameroon",10,"Sud",55,"Dja et Lobo",336,"Mintom 2","Arrondissement","Arrondissement",NA,NA
+337,41,"CMR","Cameroon",10,"Sud",55,"Dja et Lobo",337,"Oveng","Arrondissement","Arrondissement",NA,NA
+338,41,"CMR","Cameroon",10,"Sud",55,"Dja et Lobo",338,"Sangmélima","Arrondissement","Arrondissement",NA,NA
+339,41,"CMR","Cameroon",10,"Sud",55,"Dja et Lobo",339,"Zoétélé","Arrondissement","Arrondissement",NA,NA
+340,41,"CMR","Cameroon",10,"Sud",56,"Mvila",340,"Biwong Bane","Arrondissement","Arrondissement",NA,NA
+341,41,"CMR","Cameroon",10,"Sud",56,"Mvila",341,"Biwong Bulu","Arrondissement","Arrondissement",NA,NA
+342,41,"CMR","Cameroon",10,"Sud",56,"Mvila",342,"Ebolowa 1","Arrondissement","Arrondissement",NA,NA
+343,41,"CMR","Cameroon",10,"Sud",56,"Mvila",343,"Ebolowa 2","Arrondissement","Arrondissement",NA,NA
+344,41,"CMR","Cameroon",10,"Sud",56,"Mvila",344,"Efoulan","Arrondissement","Arrondissement",NA,NA
+345,41,"CMR","Cameroon",10,"Sud",56,"Mvila",345,"Mengong","Arrondissement","Arrondissement",NA,NA
+346,41,"CMR","Cameroon",10,"Sud",56,"Mvila",346,"Mvangan","Arrondissement","Arrondissement",NA,NA
+347,41,"CMR","Cameroon",10,"Sud",56,"Mvila",347,"Ngoulémakong","Arrondissement","Arrondissement",NA,NA
+348,41,"CMR","Cameroon",10,"Sud",57,"Océan",348,"Akom 2","Arrondissement","Arrondissement",NA,NA
+349,41,"CMR","Cameroon",10,"Sud",57,"Océan",349,"Bipindi","Arrondissement","Arrondissement",NA,NA
+350,41,"CMR","Cameroon",10,"Sud",57,"Océan",350,"Campo","Arrondissement","Arrondissement",NA,NA
+351,41,"CMR","Cameroon",10,"Sud",57,"Océan",351,"Kribi 1","Arrondissement","Arrondissement",NA,NA
+352,41,"CMR","Cameroon",10,"Sud",57,"Océan",352,"Kribi 2","Arrondissement","Arrondissement",NA,NA
+353,41,"CMR","Cameroon",10,"Sud",57,"Océan",353,"Lokoundje","Arrondissement","Arrondissement",NA,NA
+354,41,"CMR","Cameroon",10,"Sud",57,"Océan",354,"Lolodorf","Arrondissement","Arrondissement",NA,NA
+355,41,"CMR","Cameroon",10,"Sud",57,"Océan",355,"Mvengué","Arrondissement","Arrondissement",NA,NA
+356,41,"CMR","Cameroon",10,"Sud",57,"Océan",356,"Nyé'été","Arrondissement","Arrondissement",NA,NA
+357,41,"CMR","Cameroon",10,"Sud",58,"Vallée du Ntem",357,"Ambam","Arrondissement","Arrondissement",NA,NA
+358,41,"CMR","Cameroon",10,"Sud",58,"Vallée du Ntem",358,"Kyé Ossi","Arrondissement","Arrondissement",NA,NA
+359,41,"CMR","Cameroon",10,"Sud",58,"Vallée du Ntem",359,"Ma'an","Arrondissement","Arrondissement",NA,NA
+360,41,"CMR","Cameroon",10,"Sud",58,"Vallée du Ntem",360,"Olamzé","Arrondissement","Arrondissement",NA,NA

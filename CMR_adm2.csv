@@ -1,0 +1,59 @@
+"OBJECTID","ID_0","ISO","NAME_0","ID_1","NAME_1","ID_2","NAME_2","TYPE_2","ENGTYPE_2","NL_NAME_2","VARNAME_2"
+1,41,"CMR","Cameroon",1,"Adamaoua",1,"Djerem","Département","Department",NA,"Jerem"
+2,41,"CMR","Cameroon",1,"Adamaoua",2,"Faro et Déo","Département","Department",NA,"Faro Déo"
+3,41,"CMR","Cameroon",1,"Adamaoua",3,"Mayo Banyo","Département","Department",NA,"Maya Banyo"
+4,41,"CMR","Cameroon",1,"Adamaoua",4,"Mbéré","Département","Department",NA,NA
+5,41,"CMR","Cameroon",1,"Adamaoua",5,"Vina","Département","Department",NA,NA
+6,41,"CMR","Cameroon",2,"Centre",6,"Haute Sanaga","Département","Department",NA,"Upper Sanaga"
+7,41,"CMR","Cameroon",2,"Centre",7,"Lekié","Département","Department",NA,"Lekie"
+8,41,"CMR","Cameroon",2,"Centre",8,"Mbam et Inoubou","Département","Department",NA,NA
+9,41,"CMR","Cameroon",2,"Centre",9,"Mbam et Kim","Département","Department",NA,NA
+10,41,"CMR","Cameroon",2,"Centre",10,"Mefou et Afamba","Département","Department",NA,NA
+11,41,"CMR","Cameroon",2,"Centre",11,"Mefou et Akono","Département","Department",NA,NA
+12,41,"CMR","Cameroon",2,"Centre",12,"Mfoundi","Département","Department",NA,"Yaounde|Mfundi"
+13,41,"CMR","Cameroon",2,"Centre",13,"Nyong et Kéllé","Département","Department",NA,"Nyong et Kelle"
+14,41,"CMR","Cameroon",2,"Centre",14,"Nyong et Mfoumou","Département","Department",NA,"Myong and Mfoumou|Nyong et Mfoumo|Nyong et Mfumu|Nyong and Mfoumo|Nyong-and-Mfumu|Nyong-and-Mfoumou"
+15,41,"CMR","Cameroon",2,"Centre",15,"Nyong et So'o","Département","Department",NA,"Nyong et So|Myong and So'o|Nyong et So'o"
+16,41,"CMR","Cameroon",3,"Est",16,"Boumba et Ngoko","Département","Department",NA,"Boumba-Nkogo|Bumba-Nkogo|Boumba-and-Ngoko"
+17,41,"CMR","Cameroon",3,"Est",17,"Haut Nyong","Département","Department",NA,"Upper Nyong"
+18,41,"CMR","Cameroon",3,"Est",18,"Kadey","Département","Department",NA,NA
+19,41,"CMR","Cameroon",3,"Est",19,"Lom et Djerem","Département","Department",NA,"Lom et Jerem|Lom-and-Jerem|Lom-and-Djerem"
+20,41,"CMR","Cameroon",4,"Extrême-Nord",20,"Diamaré","Département","Department",NA,"Diamare"
+21,41,"CMR","Cameroon",4,"Extrême-Nord",21,"Logone et Chari","Département","Department",NA,"Logone-and-Chari"
+22,41,"CMR","Cameroon",4,"Extrême-Nord",22,"Mayo Danay","Département","Department",NA,"Mayo-Danai"
+23,41,"CMR","Cameroon",4,"Extrême-Nord",23,"Mayo Kani","Département","Department",NA,"Kaele"
+24,41,"CMR","Cameroon",4,"Extrême-Nord",24,"Mayo Sava","Département","Department",NA,NA
+25,41,"CMR","Cameroon",4,"Extrême-Nord",25,"Mayo Tsanaga","Département","Department",NA,"Maya Tsanaga|Mayo Sanaga|Mayo-Tsanga"
+26,41,"CMR","Cameroon",5,"Littoral",26,"Moungo","Département","Department",NA,"Mungo"
+27,41,"CMR","Cameroon",5,"Littoral",27,"Nkam","Département","Department",NA,NA
+28,41,"CMR","Cameroon",5,"Littoral",28,"Sanaga Maritime","Département","Department",NA,NA
+29,41,"CMR","Cameroon",5,"Littoral",29,"Wouri","Département","Department",NA,"Wuri"
+30,41,"CMR","Cameroon",6,"Nord-Ouest",30,"Boyo","Département","Department",NA,NA
+31,41,"CMR","Cameroon",6,"Nord-Ouest",31,"Bui","Département","Department",NA,"Mbui"
+32,41,"CMR","Cameroon",6,"Nord-Ouest",32,"Donga Mantung","Département","Department",NA,"Ndonga Mantung|Ndonga Mentum|Nkambe"
+33,41,"CMR","Cameroon",6,"Nord-Ouest",33,"Menchum","Département","Department",NA,"Mentchum|Mentum"
+34,41,"CMR","Cameroon",6,"Nord-Ouest",34,"Mezam","Département","Department",NA,NA
+35,41,"CMR","Cameroon",6,"Nord-Ouest",35,"Momo","Département","Department",NA,NA
+36,41,"CMR","Cameroon",6,"Nord-Ouest",36,"Ngo Ketunjia","Département","Department",NA,NA
+37,41,"CMR","Cameroon",7,"Nord",37,"Bénoué","Département","Department",NA,"Benoue"
+38,41,"CMR","Cameroon",7,"Nord",38,"Faro","Département","Department",NA,NA
+39,41,"CMR","Cameroon",7,"Nord",39,"Mayo Louti","Département","Department",NA,"Mayo-Luti"
+40,41,"CMR","Cameroon",7,"Nord",40,"Mayo Rey","Département","Department",NA,NA
+41,41,"CMR","Cameroon",8,"Ouest",41,"Bamboutos","Département","Department",NA,NA
+42,41,"CMR","Cameroon",8,"Ouest",42,"Haut Nkam","Département","Department",NA,"Upper Nkam"
+43,41,"CMR","Cameroon",8,"Ouest",43,"Hauts Plateaux","Département","Department",NA,NA
+44,41,"CMR","Cameroon",8,"Ouest",44,"Koung Khi","Département","Department",NA,NA
+45,41,"CMR","Cameroon",8,"Ouest",45,"Menoua","Département","Department",NA,"Menua"
+46,41,"CMR","Cameroon",8,"Ouest",46,"Mifi","Département","Department",NA,NA
+47,41,"CMR","Cameroon",8,"Ouest",47,"Ndé","Département","Department",NA,"Nde"
+48,41,"CMR","Cameroon",8,"Ouest",48,"Noun","Département","Department",NA,"Bamoun|Nun"
+49,41,"CMR","Cameroon",9,"Sud-Ouest",49,"Fako","Département","Department",NA,NA
+50,41,"CMR","Cameroon",9,"Sud-Ouest",50,"Koupé Manengouba","Département","Department",NA,"Kupe-Manenguba"
+51,41,"CMR","Cameroon",9,"Sud-Ouest",51,"Lebialem","Département","Department",NA,NA
+52,41,"CMR","Cameroon",9,"Sud-Ouest",52,"Manyu","Département","Department",NA,NA
+53,41,"CMR","Cameroon",9,"Sud-Ouest",53,"Meme","Département","Department",NA,NA
+54,41,"CMR","Cameroon",9,"Sud-Ouest",54,"Ndian","Département","Department",NA,"Indian|Ndan|Ndiang"
+55,41,"CMR","Cameroon",10,"Sud",55,"Dja et Lobo","Département","Department",NA,"Ja et Lobo|Ja-and-Lobo|Dja-and-Lobo"
+56,41,"CMR","Cameroon",10,"Sud",56,"Mvila","Département","Department",NA,NA
+57,41,"CMR","Cameroon",10,"Sud",57,"Océan","Département","Department",NA,"Ocean"
+58,41,"CMR","Cameroon",10,"Sud",58,"Vallée du Ntem","Département","Department",NA,"Vallee-du-Ntem"
