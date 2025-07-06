@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+fpdf
+matplotlib
+geopandas==0.14.1
+fiona==1.9.5
+shapely==2.0.1
+gdal==3.6.0
+pydeck
