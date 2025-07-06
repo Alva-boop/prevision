@@ -9,7 +9,7 @@ import pandas as pd
 import geopandas as gpd
 import matplotlib.pyplot as plt
 from matplotlib.lines import Line2D
-from fpdf import FPDF
+from fpdf import FPDF 
 import io
 import os
 import re

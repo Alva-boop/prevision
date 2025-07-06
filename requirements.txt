@@ -1,7 +1,7 @@
 streamlit
 pandas
 numpy
-fpdf
+fpdf2
 matplotlib
 geopandas==0.14.1
 fiona==1.9.5
